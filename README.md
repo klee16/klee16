@@ -8,7 +8,7 @@ Seeking to obtain a challenging and rewarding opportunity that will enhance my k
 
 * 🌍  I'm based in Washington, DC Metro
 * ✉️  You can contact me at [kel.lee1628@gmail.com](mailto:kel.lee1628@gmail.com)
-* 🧠  I'm learning Power Bi and Tableau
+* 🧠  Exploring Data Science 
 
 ### Skills
 

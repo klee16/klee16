@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kel Lee
 ===============================================================================================================================
 
-Data Analyst and Software Engineer
+Computer and Data Scientist
 ----------------------------------
 
 Seeking to obtain a challenging and rewarding opportunity that will enhance my knowledge in the Field of Data Science, Analytics, and Security.

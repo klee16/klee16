@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer and Data Scientist
 ----------------------------------
 
-Seeking to obtain a challenging and rewarding opportunity that will enhance my knowledge in the Field of Data Science, Analytics, and Security.
+
+I am passionate about leveraging data-driven insights to solve complex problems and drive innovation. Let's connect to explore opportunities and collaborate on impactful projects.
 
 * 🌍  I'm based in Washington, DC Metro
 * ✉️  You can contact me at [kel.lee1628@gmail.com](mailto:kel.lee1628@gmail.com)
